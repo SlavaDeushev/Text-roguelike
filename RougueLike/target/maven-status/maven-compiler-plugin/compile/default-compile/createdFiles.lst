@@ -1,4 +1,7 @@
-com\mycompany\rouguelike\Enemy_Goblin.class
 com\mycompany\rouguelike\Enemy.class
+com\mycompany\rouguelike\Condition.class
 com\mycompany\rouguelike\Attack.class
-com\mycompany\rouguelike\RougueLike.class
+com\mycompany\rouguelike\Enemy_Goblin.class
+com\mycompany\rouguelike\Item.class
+com\mycompany\rouguelike\Character.class
+com\mycompany\rouguelike\Repost.class

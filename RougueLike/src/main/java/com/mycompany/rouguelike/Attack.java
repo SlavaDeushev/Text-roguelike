@@ -10,20 +10,15 @@ package com.mycompany.rouguelike;
  */
 public class Attack {
     String attack_description;
-    int damage;
+    //String repost1;
     
-    public Attack(String attack_description, int damage){
+    
+    public Attack(String attack_description){
         this.attack_description = attack_description;
-        this.damage = damage;
         //System.out.println("абра");
     }
     
     String attack_desription(){
         return attack_description;
-    }
-    
-    int take_damage(){
-        return damage;
-    }
-    
+    }    
 }
